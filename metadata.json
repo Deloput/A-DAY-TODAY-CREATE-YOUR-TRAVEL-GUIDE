@@ -1,0 +1,8 @@
+{
+  "name": "A DAY TODAY",
+  "description": "AI-powered city guide creator using Gemini Search & Maps Grounding. Create, share, and discover local stories.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
